@@ -1,0 +1,8 @@
+{
+  "name": "Stella Orbit",
+  "description": "Inclusive Sign Language Translator AI that predicts hand sign languages via MediaPipe and Google Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
